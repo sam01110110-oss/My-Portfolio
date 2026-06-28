@@ -1,0 +1,11 @@
+﻿  SceneManager.cpp
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(223,16): warning C4018: '<': signed/unsigned mismatch
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(441,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(452,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(463,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(485,28): warning C4305: '=': truncation from 'double' to 'float'
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 780 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  7-1_FinalProjectMilestones.vcxproj -> C:\CS330Content\Projects\7-1_FinalProjectMilestones\Release\7-1_FinalProjectMilestones.exe
